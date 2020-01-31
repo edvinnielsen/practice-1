@@ -2,5 +2,4 @@ Mashed Potatoes
 Soup
 Bread
 Carrots
-Cucumbers
 Salad
